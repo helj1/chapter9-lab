@@ -10,3 +10,5 @@ To practice shell commands, Git initialization, status checking, staging, and co
 
 ## Reflection
 Git is helpful for tracking project history.
+
+Git is a great tool for web programming.

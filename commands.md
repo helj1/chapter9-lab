@@ -10,5 +10,5 @@ git add : Tells Git to get the changes ready to be saved.
 
 git commit : Saves the changes into the project's history.
 
-
+git log --oneline : Shows the commit history in order
 
